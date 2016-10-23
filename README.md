@@ -5,7 +5,7 @@
 
 
 用例图：
-![用例图](oom.jpg)
+![用例图](https://github.com/oshsx/sbglxt.github.io/blob/master/oom.JPG)
 
 用例说明：由设备员进行设备的录入、设备信息的管理以及设备配件的管理，配件管理包括配件信息的修改以及配件数量；
         由保养人进行设备的保养工作，并随之生成保养记录；
